@@ -1,0 +1,54 @@
+* This is an outline
+ 
+. It's not a very good outline
+ 
+.. I've seen better
+ 
+.. I've seen worse
+ 
+... I saw a really bad one back in 2008
+ 
+* This is the second numbered item in the outline
+ 
+. This is sub text that spans multiple lines
+ 
+This should be included with the previous line
+ 
+And this line too
+ 
+.. That is more sub text
+ 
+* Numbers
+ 
+. Some text
+ 
+** Lots
+ 
+. Some more text
+ 
+. And some more
+ 
+*** And lots
+ 
+. One
+ 
+.. Two
+ 
+... Three
+ 
+**** Of numbers
+ 
+. Another line
+ 
+** Less Numbers
+ 
+. Text
+ 
+*** More Numbers
+ 
+. Blah
+ 
+* One number again
+ 
+. The last line
+ 
